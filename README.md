@@ -3,6 +3,14 @@
 Hi ha **dues** maneres de llençar el deployment amb aquesta plantilla: amb l'script de desplegament o via el portal d'Azure.
 És molt important que el desplegament es faci seguint aquestes instruccions, doncs els scripts de configuració de les màquines han d'estar disponibles (però no públics) per a poder tornar a desplegar-los si cal fer modificacions a les màquines virtuals.
 
+## Fully configurable deployment
+
+The following button will allow you to specify various configurations for your Moodle cluster
+deployment. The number of configuration options might be overwhelming, so some pre-defined/restricted deployment options for
+typical Moodle scenarios follow this.
+
+[![Deploy to Azure Fully Configurable](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fslva%2Fazure-Moodle%2Fmaster%2Fazuredeploy-PRE.json) 
+
 ## Script de desplegament ##
 
 L'script de desplegament (deploy.sh) fa servir les comandes d'Azure CLI per fer el desplegament.
