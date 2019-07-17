@@ -9,7 +9,7 @@ The following button will allow you to specify various configurations for your M
 deployment. The number of configuration options might be overwhelming, so some pre-defined/restricted deployment options for
 typical Moodle scenarios follow this.
 
-[![Deploy to Azure Fully Configurable](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fslva%2Fazure-Moodle%2Fmaster%2Fazuredeploy-PRE.json) 
+[![Deploy to Azure Fully Configurable](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Falbandrod%2Fazure-Moodle%2Fmaster%2Fazuredeploy-PRE.json) 
 
 ## Script de desplegament ##
 
